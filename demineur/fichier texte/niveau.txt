@@ -1,0 +1,2 @@
+niveau = 3
+finissable = 1
